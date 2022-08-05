@@ -9,3 +9,4 @@ function aVeryBigSum($ar) {
 
 
 echo aVeryBigSum([7, 8, 15]);
+?>
